@@ -1,2 +1,2 @@
 # CoffeOrdersData
-Data manupulation and visuluasing with using Excel 
+Data manipulation and visualising by using Excel 
